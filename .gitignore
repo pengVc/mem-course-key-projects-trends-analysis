@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints/*
+
+# 其他 Jupyter 相关临时文件
+*/.ipynb_checkpoints/*
+
+outputs
